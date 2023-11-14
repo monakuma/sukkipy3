@@ -17,3 +17,5 @@ if has_money=='y':
         print('コンビニのチキンはいかがでしょうか。')
 else:
     print('家で食べましょう')    
+
+    
